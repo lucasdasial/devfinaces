@@ -58,7 +58,7 @@ a:hover{
 }
 
 button{
-    width: 200px;
+    width: 100%;
     height: 50px;
     border: none;
     color: white;
@@ -82,8 +82,8 @@ button:hover{
     display: flex;
     align-items: center;
     justify-content: center;
-    width: 200px;
-    margin:0
+    width: 100%;
+    margin:0 10px 0 0;
 }
 .btn-cancel:hover{
     color: darkred;
@@ -207,10 +207,10 @@ table tbody:last-child{
 
     opacity: 0;
     visibility: hidden;
-    transition: 400ms;
+    transition: 300ms;
 }
 
-.modal-overlay.show{
+.show{
     opacity: 1;
     visibility: visible;
 }
@@ -218,8 +218,8 @@ table tbody:last-child{
     padding: 2.4rem;
     background:var(--bg-body);
     box-shadow: 10px 10px 5px rgba(0,0,0,0.4);
-    width: 90%;
-    max-width: 500px;
+    width: 96%;
+    max-width: 600px;
 }
 
 /*---------------form----------------*/
