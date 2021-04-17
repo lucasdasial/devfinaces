@@ -2,7 +2,7 @@
 repositório destinado a guardar meus projetos desenvolvidos na maratona
 
 <h1 align="center">
-  <img alt="dev.finances" title="dev.finances" src=".github/logo.svg" width="220px" />
+  Dev.finances$
 </h1>
 
 <p align="center">
@@ -45,4 +45,4 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 
 ---
 
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
+Feito by Lucas Alves && Rocketseat 
