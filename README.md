@@ -20,9 +20,8 @@ repositório destinado a guardar meus projetos desenvolvidos na maratona
 
 <br>
 
-<p align="center">
-  <img alt="dev.finances" src=".github/devfinances.png" width="100%">
-</p>
+  ![devfinances](https://user-images.githubusercontent.com/72477227/115125961-132a7500-9fa2-11eb-8feb-9cf9320e7b58.png)
+
 
 ## 🚀 Tecnologias
 
