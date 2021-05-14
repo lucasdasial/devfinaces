@@ -1,5 +1,5 @@
 # maratona-discovery
-repositório destinado a guardar meus projetos desenvolvidos na maratona
+projeto desenvolvido durante a maratona discovery da rockeseat
 
 <h1 align="center">
   Dev.finances$
